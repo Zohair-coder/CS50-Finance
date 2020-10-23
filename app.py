@@ -140,8 +140,10 @@ def history():
 
     rows = db.execute("SELECT cash FROM users WHERE id=:user_id",
                       user_id=session["user_id"])
+    own_cash = rows[0]['cash']
 
     html = ""
+    total = 0.0
     for share in shares:
         if int(share['shares']) < 0:
             color = "danger"
