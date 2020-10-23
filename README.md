@@ -22,7 +22,7 @@ pip install cs50 flask flask_session requests
 
 ## Screenshot
 
-![website-screenshot](https://imgur.com/oQCA5BC)
+![website-screenshot](https://i.imgur.com/oQCA5BC.png)
 
 
 For more information, go to: [CS50 pset8](https://cs50.harvard.edu/x/2020/tracks/web/finance/)
