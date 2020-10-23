@@ -1,6 +1,6 @@
 # Finance
 
-This is a web application designed to help people who are new to the stock market. It uses data from [IEX](https://iexcloud.io/) to check real stocks' actual prices. Users can sign-up to open an account and "buy" and "sell" stocks (not with real money). Everyone starts out with $10,000. Make smart investments and earn as much as you can!   
+Finance is a web application designed to help people who are new to the stock market. It uses data from [IEX](https://iexcloud.io/) to check real stocks' actual prices. Users can sign-up to open an account and "buy" and "sell" stocks (not with real money). Everyone starts out with $10,000. Make smart investments and earn as much as you can!   
 
 ## Installation
 
